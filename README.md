@@ -1,2 +1,2 @@
-fmm
-===
+Fast Multipole method in Python
+
