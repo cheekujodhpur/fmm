@@ -1,6 +1,3 @@
-<h1>Fast Multipole Method</h1>
-We aim to create a fast multipole method library in <em>Python</em>
-
 <h1>TODO</h1>
 
 <h3>I/O Methods</h3>
@@ -17,4 +14,3 @@ We aim to create a fast multipole method library in <em>Python</em>
 		Find clever data structures to represent hierarchial octa-tree(3d). A wise man once remarked how a good data structures solves half your algorithmic hurdles. 
 	</li>
 </ul>
-
